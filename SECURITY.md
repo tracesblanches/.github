@@ -1,6 +1,6 @@
 # Politique de sécurité
 
-Traces blanches sert en montagne, parfois loin de tout réseau. Une faille peut toucher la carte, le guidage ou les données d'un skieur. Merci de nous la signaler.
+Traces Blanches sert en montagne, parfois loin de tout réseau. Une faille peut toucher la carte, le guidage ou les données d'un skieur. Merci de nous la signaler.
 
 ## Signaler une faille
 

@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img alt="Traces blanches : carte, pistes, pentes et guidage vocal pour le ski nordique, sans réseau" src="banner-light.svg" width="100%">
+  <img alt="Traces Blanches : carte, pistes, pentes et guidage vocal pour le ski nordique, sans réseau" src="banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 En forêt du Haut-Doubs ou au fond d'une vallée du Queyras, le réseau tombe. Le plan des pistes est une image, le bulletin d'avalanche est sur un autre site, et vos doigts sont dans des gants.
 
-Traces blanches réunit sur le téléphone ce qu'il faut pour une journée de ski de fond ou de ski de randonnée nordique en France, et le garde disponible sans réseau. Vous préparez la journée le matin. Ensuite, le téléphone reste dans la poche et une voix vous guide.
+Traces Blanches réunit sur le téléphone ce qu'il faut pour une journée de ski de fond ou de ski de randonnée nordique en France, et le garde disponible sans réseau. Vous préparez la journée le matin. Ensuite, le téléphone reste dans la poche et une voix vous guide.
 
 | | Dépôt | Contenu |
 |---|---|---|
@@ -53,6 +53,6 @@ Les contributions sont bienvenues, y compris celles écrites avec un outil d'IA.
 
 #### Sécurité en montagne
 
-Traces blanches ne dit jamais qu'une pente est sûre. L'app montre l'âge et la source de chaque information. Elle ne remplace ni le bulletin d'avalanche, ni votre jugement sur le terrain.
+Traces Blanches ne dit jamais qu'une pente est sûre. L'app montre l'âge et la source de chaque information. Elle ne remplace ni le bulletin d'avalanche, ni votre jugement sur le terrain.
 
 <sub>Offline map, trails, slopes and voice guidance for cross-country and Nordic backcountry skiing in France. Rust core today; Android app planned. Code under GPL-3.0-or-later with an app store exception. <a href="https://tracesblanches.github.io/">English page</a>.</sub>

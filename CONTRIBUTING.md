@@ -1,4 +1,4 @@
-# Contribuer à Traces blanches
+# Contribuer à Traces Blanches
 
 Les contributions sont bienvenues : correction, test, donnée, traduction, idée. Les contributions écrites avec un outil d'IA sont bienvenues aussi, aux conditions ci-dessous.
 
