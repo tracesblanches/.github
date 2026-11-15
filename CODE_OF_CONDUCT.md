@@ -36,7 +36,7 @@ Ce code de conduite s'applique à la fois au sein des espaces du projet ainsi qu
 
 ## Application
 
-Les cas de comportements abusifs, harcelants ou tout autre comportement inacceptables peuvent être signalés aux dirigeant·e·s de la communauté responsables de l'application du code de conduite par un signalement privé sur GitHub : onglet « Security » du dépôt [traceblanche](https://github.com/traceblanche/traceblanche/security), bouton « Report a vulnerability », avec « Code de conduite » dans le titre. Seuls vous et les responsables du dépôt voient ce signalement.
+Les cas de comportements abusifs, harcelants ou tout autre comportement inacceptables peuvent être signalés aux dirigeant·e·s de la communauté responsables de l'application du code de conduite par un signalement privé sur GitHub : onglet « Security » du dépôt [tracesblanches](https://github.com/tracesblanches/tracesblanches/security), bouton « Report a vulnerability », avec « Code de conduite » dans le titre. Seuls vous et les responsables du dépôt voient ce signalement.
 Toutes les plaintes seront examinées et feront l'objet d'une enquête rapide et équitable.
 
 Tou·te·s les dirigeant·e·s de la communauté sont tenu·e·s de respecter la vie privée et la sécurité des personnes ayant signalé un incident.

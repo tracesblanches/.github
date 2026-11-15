@@ -1,15 +1,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img alt="traceblanche : carte, pistes, pentes et guidage vocal pour le ski nordique, sans réseau" src="banner-light.svg" width="100%">
+  <img alt="Traces blanches : carte, pistes, pentes et guidage vocal pour le ski nordique, sans réseau" src="banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
-  <a href="https://traceblanche.github.io"><b>Site</b></a> ·
-  <a href="https://traceblanche.github.io/fr/demarrage.html">Démarrage</a> ·
-  <a href="https://traceblanche.github.io/fr/faq.html">FAQ</a> ·
-  <a href="https://traceblanche.github.io/fr/licences.html">Données et licences</a> ·
-  <a href="https://github.com/traceblanche/traceblanche/issues">Issues</a> ·
-  <a href="https://traceblanche.github.io/">English</a>
+  <a href="https://tracesblanches.github.io"><b>Site</b></a> ·
+  <a href="https://tracesblanches.github.io/fr/demarrage.html">Démarrage</a> ·
+  <a href="https://tracesblanches.github.io/fr/faq.html">FAQ</a> ·
+  <a href="https://tracesblanches.github.io/fr/licences.html">Données et licences</a> ·
+  <a href="https://github.com/tracesblanches/tracesblanches/issues">Issues</a> ·
+  <a href="https://tracesblanches.github.io/">English</a>
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 
 En forêt du Haut-Doubs ou au fond d'une vallée du Queyras, le réseau tombe. Le plan des pistes est une image, le bulletin d'avalanche est sur un autre site, et vos doigts sont dans des gants.
 
-traceblanche réunit sur le téléphone ce qu'il faut pour une journée de ski de fond ou de ski de randonnée nordique en France, et le garde disponible sans réseau. Vous préparez la journée le matin. Ensuite, le téléphone reste dans la poche et une voix vous guide.
+Traces blanches réunit sur le téléphone ce qu'il faut pour une journée de ski de fond ou de ski de randonnée nordique en France, et le garde disponible sans réseau. Vous préparez la journée le matin. Ensuite, le téléphone reste dans la poche et une voix vous guide.
 
 | | Dépôt | Contenu |
 |---|---|---|
-| 🎿 | [**traceblanche**](https://github.com/traceblanche/traceblanche) | Le noyau en Rust : chaîne de données, routage, temps estimés, voix. Ensuite l'app Android en Kotlin (prévue). |
-| 🌐 | [**traceblanche.github.io**](https://github.com/traceblanche/traceblanche.github.io) | Le site. |
-| 📋 | [**.github**](https://github.com/traceblanche/.github) | Ce profil, les règles de contribution et les modèles d'issues. |
+| 🎿 | [**tracesblanches**](https://github.com/tracesblanches/tracesblanches) | Le noyau en Rust : chaîne de données, routage, temps estimés, voix. Ensuite l'app Android en Kotlin (prévue). |
+| 🌐 | [**tracesblanches.github.io**](https://github.com/tracesblanches/tracesblanches.github.io) | Le site. |
+| 📋 | [**.github**](https://github.com/tracesblanches/.github) | Ce profil, les règles de contribution et les modèles d'issues. |
 
 #### Ce que contient un pack hors ligne
 
@@ -49,10 +49,10 @@ Un pack couvre un site. La chaîne de données le construit ; le téléphone le 
 
 #### Contribuer
 
-Les contributions sont bienvenues, y compris celles écrites avec un outil d'IA. Chaque contribution arrive avec ses tests et ses preuves, et son auteur en répond. Lisez [CONTRIBUTING.md](https://github.com/traceblanche/.github/blob/main/CONTRIBUTING.md) avant d'ouvrir une demande de fusion.
+Les contributions sont bienvenues, y compris celles écrites avec un outil d'IA. Chaque contribution arrive avec ses tests et ses preuves, et son auteur en répond. Lisez [CONTRIBUTING.md](https://github.com/tracesblanches/.github/blob/main/CONTRIBUTING.md) avant d'ouvrir une demande de fusion.
 
 #### Sécurité en montagne
 
-traceblanche ne dit jamais qu'une pente est sûre. Il montre l'âge et la source de chaque information. Il ne remplace ni le bulletin d'avalanche, ni votre jugement sur le terrain.
+Traces blanches ne dit jamais qu'une pente est sûre. L'app montre l'âge et la source de chaque information. Elle ne remplace ni le bulletin d'avalanche, ni votre jugement sur le terrain.
 
-<sub>Offline map, trails, slopes and voice guidance for cross-country and Nordic backcountry skiing in France. Rust core today; Android app planned. Code under GPL-3.0-or-later with an app store exception. <a href="https://traceblanche.github.io/">English page</a>.</sub>
+<sub>Offline map, trails, slopes and voice guidance for cross-country and Nordic backcountry skiing in France. Rust core today; Android app planned. Code under GPL-3.0-or-later with an app store exception. <a href="https://tracesblanches.github.io/">English page</a>.</sub>
