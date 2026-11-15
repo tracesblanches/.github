@@ -5,11 +5,11 @@
 
 <p align="center">
   <a href="https://traceblanche.github.io"><b>Site</b></a> ·
-  <a href="https://traceblanche.github.io/demarrage.html">Démarrage</a> ·
-  <a href="https://traceblanche.github.io/faq.html">FAQ</a> ·
-  <a href="https://traceblanche.github.io/licences.html">Données et licences</a> ·
+  <a href="https://traceblanche.github.io/fr/demarrage.html">Démarrage</a> ·
+  <a href="https://traceblanche.github.io/fr/faq.html">FAQ</a> ·
+  <a href="https://traceblanche.github.io/fr/licences.html">Données et licences</a> ·
   <a href="https://github.com/traceblanche/traceblanche/issues">Issues</a> ·
-  <a href="https://traceblanche.github.io/en/">English</a>
+  <a href="https://traceblanche.github.io/">English</a>
 </p>
 
 <p align="center">
@@ -55,4 +55,4 @@ Les contributions sont bienvenues, y compris celles écrites avec un outil d'IA.
 
 traceblanche ne dit jamais qu'une pente est sûre. Il montre l'âge et la source de chaque information. Il ne remplace ni le bulletin d'avalanche, ni votre jugement sur le terrain.
 
-<sub>Offline map, trails, slopes and voice guidance for cross-country and Nordic backcountry skiing in France. Rust core today; Android app planned. Code under GPL-3.0-or-later with an app store exception. <a href="https://traceblanche.github.io/en/">English page</a>.</sub>
+<sub>Offline map, trails, slopes and voice guidance for cross-country and Nordic backcountry skiing in France. Rust core today; Android app planned. Code under GPL-3.0-or-later with an app store exception. <a href="https://traceblanche.github.io/">English page</a>.</sub>
