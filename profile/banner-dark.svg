@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1621"/><stop offset="1" stop-color="#14283b"/></linearGradient>
+    <linearGradient id="snow" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a4560"/><stop offset="1" stop-color="#22394f"/></linearGradient>
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="1"/></linearGradient>
+    <mask id="m" maskUnits="userSpaceOnUse" x="0" y="0" width="1280" height="320"><rect x="600" width="680" height="320" fill="url(#fadeL)"/></mask>
+    <clipPath id="c"><rect width="1280" height="320" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1280" height="320" fill="url(#sky)"/>
+    <g mask="url(#m)">
+      <path d="M560,250 L680,196 L742,214 L830,142 L888,170 L968,98 L1030,140 L1108,84 L1176,132 L1236,110 L1280,128 V320 H560 Z" fill="#1a3047"/>
+      <path d="M968,98 L1030,140 L1004,150 L990,128 L962,140 Z M1108,84 L1176,132 L1146,138 L1128,118 L1100,126 Z M830,142 L888,170 L860,176 L846,160 L820,168 Z" fill="#2a4560" opacity="0.85"/>
+      <path d="M560,286 L700,236 L790,258 L900,196 L990,240 L1080,206 L1170,236 L1280,204 V320 H560 Z" fill="#1f3851"/>
+      <g fill="none" stroke="#9cc3ea" stroke-opacity="0.18" stroke-width="2">
+        <path d="M700,236 C 760,250 820,246 900,214"/><path d="M790,258 C 860,262 930,250 990,240"/><path d="M900,196 C 960,214 1030,222 1080,206"/>
+      </g>
+    </g>
+    <path d="M0,320 V306 C 320,302 640,306 880,294 C 1040,286 1170,272 1280,260 V320 Z" fill="url(#snow)"/>
+    <g fill="none" stroke="#9cc3ea" stroke-width="3.5" stroke-linecap="round">
+      <path d="M744,326 C 850,300 930,292 1004,262 S 1110,224 1158,206"/>
+      <path d="M752,336 C 860,310 940,302 1012,272 S 1116,234 1164,216"/>
+    </g>
+    <g fill="none" stroke="#f59e5b" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 10">
+      <path d="M1166,208 C 1186,196 1200,178 1210,160"/>
+    </g>
+    <circle cx="1212" cy="156" r="8" fill="#0b1621" stroke="#f59e5b" stroke-width="4"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="80" y="92" font-size="18" letter-spacing="3" fill="#f59e5b">SKI DE FOND · SKI DE RANDONNÉE NORDIQUE</text>
+  </g>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="76" y="172" font-size="76" font-weight="700" fill="#e8eff6" letter-spacing="-1.5">traceblanche</text>
+    <text x="80" y="222" font-size="25" fill="#a5b8cb">Carte, pistes, pentes et guidage vocal, sans réseau.</text>
+    <text x="80" y="256" font-size="25" fill="#a5b8cb">Pour la France. App Android prévue, code libre.</text>
+  </g>
+</svg>
