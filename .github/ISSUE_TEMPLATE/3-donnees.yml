@@ -28,7 +28,7 @@ body:
     id: lieu
     attributes:
       label: Domaine ou commune
-      placeholder: "Chapelle-des-Bois (Doubs)"
+      placeholder: "Aillon-Margériaz (Savoie)"
     validations:
       required: true
   - type: input

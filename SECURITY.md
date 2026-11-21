@@ -18,8 +18,8 @@ Notamment :
 
 - la lecture des packs et des fichiers téléchargés (formats GeoJSON, PMTiles, rasters, clips audio) ;
 - le téléchargeur de la chaîne de données (cache, quotas, clés d'API qui ne doivent apparaître dans aucun journal) ;
-- l'app Android, quand elle existera : position, trace, plan de sortie ;
-- les services prévus : téléchargement des packs, alerte en cas de non-retour, échange de jetons Strava.
+- l'app Android : position, trace, plan de sortie, groupe par Bluetooth, partage vers Health Connect ;
+- le serveur : téléchargement et mise à jour des packs, signalements des skieurs.
 
 ## Ce qui ne l'est pas
 

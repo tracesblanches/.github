@@ -24,9 +24,9 @@ body:
     id: reproduire
     attributes:
       label: Comment le reproduire
-      description: Étapes, commande lancée, site (Cervières, Chapelle-des-Bois…), date.
+      description: Étapes, commande lancée ou écran de l'app, site, date.
       placeholder: |
-        1. cargo run --release -p skimap-cli -- route cervieres 44.85894,6.725006 44.84465,6.8157
+        1. target/release/skimap build-all <site>
         2. …
     validations:
       required: true
