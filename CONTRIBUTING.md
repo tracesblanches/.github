@@ -13,7 +13,7 @@ Pour un changement important, ouvrez d'abord une issue. Nous verrons ensemble s'
 Chaque demande de fusion prouve ce qu'elle affirme.
 
 - **Un test par comportement modifié.** Le test échoue sans votre changement et passe avec.
-- **Références dorées obligatoires.** Les sorties de la chaîne de données et du noyau sont comparées à des références versionnées ([#101](https://github.com/tracesblanches/tracesblanches/issues/101), [#102](https://github.com/tracesblanches/tracesblanches/issues/102)). Si votre changement déplace une référence, mettez-la à jour dans le même commit et expliquez l'écart dans la demande de fusion, chiffres avant et après.
+- **Références dorées obligatoires.** Les sorties de la chaîne de données et du noyau sont comparées à des références versionnées ([`fixtures/golden/`](https://github.com/tracesblanches/tracesblanches/tree/main/fixtures/golden), voir le [CONTRIBUTING du dépôt](https://github.com/tracesblanches/tracesblanches/blob/main/CONTRIBUTING.md#références-dorées)). Si votre changement déplace une référence, mettez-la à jour dans le même commit et expliquez l'écart dans la demande de fusion, chiffres avant et après.
 - **Sorties collées.** Collez dans la demande de fusion la sortie des commandes que vous avez lancées. « Ça devrait marcher » n'est pas une preuve.
 - **Performance mesurée sur le cas qui domine.** Une optimisation donne le temps total de la tâche avant et après, sur le cas qui pèse le plus (par exemple le `build-all` complet d'un site), pas sur une seule étape.
 - **Python hors du chemin critique.** Python sert d'oracle de référence ou d'outil. Le code qui tourne en production est en Rust, et en Kotlin pour l'app Android.
