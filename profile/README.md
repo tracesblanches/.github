@@ -50,11 +50,9 @@ Chaque couche garde la licence de sa source. Les sources à usage personnel ne s
 - Le hors piste de ski de randonnée nordique, avec sa difficulté et des conseils ; le groupe par Bluetooth, sans réseau.
 - Le partage de la sortie en GPX ou FIT, et vers Health Connect.
 
-L'app n'est pas encore sur une boutique.
+#### Sortie hiver 2027
 
-#### Prix
-
-4,99 € une fois, pour couvrir l'hébergement : le serveur qui construit et met à jour les packs chaque jour. Sans abonnement ni publicité ; le code est libre.
+L'app sort à l'hiver 2027, à un prix modique, sans abonnement ni publicité. Le prix couvre l'hébergement du serveur qui construit et met à jour les packs chaque jour. D'ici là, tout le travail est consultable sur GitHub, et le code est libre.
 
 #### Contribuer
 
@@ -64,4 +62,4 @@ Les contributions sont bienvenues, y compris celles écrites avec un outil d'IA.
 
 Traces Blanches ne présente jamais une pente comme hors de portée des avalanches. L'app montre l'âge et la source de chaque information. Elle ne remplace ni le bulletin d'avalanche, ni votre jugement sur le terrain.
 
-<sub>Offline map, trails, slopes and voice guidance for cross-country and Nordic backcountry skiing across France: Rust core, pack server, Android app (not in a store yet). €4.99 once, to cover the hosting; no subscription, no ads. Code under GPL-3.0-or-later with an app store exception. <a href="https://tracesblanches.github.io/">English page</a>.</sub>
+<sub>Offline map, trails, slopes and voice guidance for cross-country and Nordic backcountry skiing across France: Rust core, pack server, Android app, coming winter 2027, at a modest price, with no subscription and no ads; the price covers the hosting. Code under GPL-3.0-or-later with an app store exception. <a href="https://tracesblanches.github.io/">English page</a>.</sub>
